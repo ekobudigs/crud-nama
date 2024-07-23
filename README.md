@@ -7,6 +7,10 @@
 
 
 ![List Data](list.PNG)
+![List Data](edit.PNG)
+![List Data](show.PNG)
+![List Data](create.PNG)
+
 
 
 
